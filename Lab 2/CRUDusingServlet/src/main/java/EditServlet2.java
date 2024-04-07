@@ -12,7 +12,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Ahmad Afif Syahmi bin Ahmad Rozali
+ * @author Iqbal Rauf
  */
 public class EditServlet2 extends HttpServlet {
 
