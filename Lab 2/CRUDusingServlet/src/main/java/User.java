@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Ahmad Afif Syahmi bin Ahmad Rozali
+ * @author Iqbal Rauf
  */
 public class User {
     
