@@ -1,0 +1,1 @@
+SELECT * FROM csm3023.user;
